@@ -3,6 +3,20 @@
 In this section you can find from time to time, job openings for our company.
 Interested? We will be more than happy to hear from you!
 
+
+## Web Developer [iWorx](https://www.iworx.gr)
+
+We are looking for a Web Developer with the following skillset: 
+HTML, CSS, JS (ES6), PHP (+ Laravel), MySQL, Git.
+
+Knowledge in React.js/Native & PWA will be a plus.
+
+You must be friendly, communicative and have a desire to learn cutting-edge web technologies. Great working environment, 5 days/ week, 8 hours/day. Annual Salary according to your qualifications. 
+
+* PubDate: 12/01/2018
+* More info: info[at]iworx[dot]gr or +302810336880
+
+
 ## React.js / React Native Developer [iWorx](https://www.iworx.gr)
 
 Job Description
@@ -33,16 +47,4 @@ Skills
 You must be friendly, communicative and have a desire to learn cutting-edge web technologies. Great working environment, 5 days/ week, 8 hours/day. Annual Salary according to your qualifications. 
 
 * PubDate: 12/01/2018
-* More info: info[at]iworx[dot]gr or 2810336880
-
-## Web Developer [iWorx](https://www.iworx.gr)
-
-We are looking for a Web Developer with the following skillset: 
-HTML, CSS, JS (ES6), PHP (+ Laravel), MySQL, Git.
-
-Knowledge in React.js/Native & PWA will be a plus.
-
-You must be friendly, communicative and have a desire to learn cutting-edge web technologies. Great working environment, 5 days/ week, 8 hours/day. Annual Salary according to your qualifications. 
-
-* PubDate: 12/01/2018
-* More info: info[at]iworx[dot]gr or 2810336880
+* More info: info[at]iworx[dot]gr or +302810336880
