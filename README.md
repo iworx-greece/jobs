@@ -60,7 +60,7 @@ enjoy working closely with partners across the business and within your team to 
 * A good understanding of SEO principles, so that you can ensure that our application adheres to such principles.
 
 ## Benefits 
-* Fulltime Job 5 days/8 hours with a competitive salary.
+* Fulltime Job 5 days/8 hours per Week with a competitive salary.
 * Working with a great team.
 
 
