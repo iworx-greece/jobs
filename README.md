@@ -61,8 +61,8 @@ genuinely enjoy sharing your knowledge with others
 * a good understanding of SEO principles, so that you can ensure that our application adheres to such principles
 
 ## Benefits 
-Fulltime Job 5 days/8 hours with a competitive salary
-Working with a great team 
+* Fulltime Job 5 days/8 hours with a competitive salary
+* Working with a great team 
 
 
 You think you fit our needs? 
