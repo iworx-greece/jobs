@@ -41,7 +41,7 @@ enjoy working closely with partners across the business and within your team to 
 * Excellent knowledge of HTML5 and CSS3
 * Profound knowledge in JavaScript
 * Good experience of the WordPress CMS (+Woo)
-* A high level of proficiency with JavaScript frameworks such as jQuery, React.js
+* A high level of proficiency with JavaScript Libraries such as jQuery, React.js (and its ecosystem).
 * A high level of experience with UI layouts, Bootstrap, and the CSS GRID system
 * Solid experience in using a complex REST API from the client-side
 * A solid understanding of cross-browser compatibility issues, and ways to work around them
