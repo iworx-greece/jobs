@@ -1,4 +1,4 @@
-Frontend Developer / Web Designer [iWorx](https://www.iworx.gr)
+Senior Frontend Developer / Web Designer [iWorx](https://www.iworx.gr)
 ==
 
 iWorx is looking to strengthen its team with a Senior Front-end Developer. Are you the one?
