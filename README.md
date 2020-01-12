@@ -14,54 +14,54 @@ You’re likely to have a self-driven, conscientious mentality with a commitment
 ## Responsibilities
 In general, you’ll work closely with the development team to create elegant, usable, responsive and interactive interfaces across multiple devices. You will, therefore:
 
-* Gain feedback continuously from users, customers, and colleagues
-* Monitor app performance, watch for traffic drops related to site usability problems and rectify any issues
-* Create quality mockups and prototypes, ensuring high-quality graphic standards and brand consistency 
-* Turn UI/UX designs into prototypes, creating excellent interactions from designs
-* Write reusable code to a standard which makes it quick and easy to maintain the code in the future
-* Optimize applications for maximum speed
-* Optimize applications for maximum scalability
-* Design new features, or maintain old features
-* Collaborate with back-end developers to improve usability
-* Help back-end developers with coding and troubleshooting
-* Stay up-to-date with emerging technologies
+* Gain feedback continuously from users, customers, and colleagues.
+* Monitor app performance, watch for traffic drops related to site usability problems and rectify any issues.
+* Create quality mockups and prototypes, ensuring high-quality graphic standards and brand consistency. 
+* Turn UI/UX designs into prototypes, creating excellent interactions from designs.
+* Write reusable code to a standard which makes it quick and easy to maintain the code in the future.
+* Optimize applications for maximum speed.
+* Optimize applications for maximum scalability.
+* Design new features, or maintain old features.
+* Collaborate with back-end developers to improve usability.
+* Help back-end developers with coding and troubleshooting.
+* Stay up-to-date with emerging technologies.
 
 ### You’re perfect for this role if you: ###
 
 * Enjoy the challenge of taking part in complex technical projects, and delivering iterative solutions that provide value at each step of the way.
 * Perform well in a fast-paced environment, and contribute to optimal flow in a rapidly changing design/technology environment
 enjoy working closely with partners across the business and within your team to solve problems.
-* Are a great communicator who is focused on discovering and delivering solutions facilitating meaningful discussions, and building consensus
-* Genuinely enjoy sharing your knowledge with others
+* Are a great communicator who is focused on discovering and delivering solutions facilitating meaningful discussions, and building consensus.
+* Genuinely enjoy sharing your knowledge with others.
 
 ## Skills and qualifications
 
 ### You will need to demonstrate:
 
-* Excellent knowledge of HTML5 and CSS3
-* Profound knowledge in JavaScript
-* Good experience of the WordPress CMS (+Woo)
+* Excellent knowledge of HTML5 and CSS3.
+* Profound knowledge in JavaScript.
+* Good experience of the WordPress CMS (+Woo).
 * A high level of proficiency with JavaScript Libraries such as jQuery, React.js (and its ecosystem).
-* A high level of experience with UI layouts, Bootstrap, and the CSS GRID system
-* Solid experience in using a complex REST API from the client-side
-* A solid understanding of cross-browser compatibility issues, and ways to work around them
-* Good knowledge and practical experience of client-side build/config management
-* Good understanding of code versioning tools, such as Git
-* Good understanding of asynchronous request handling, partial page updates, and Ajax
-* Experience in PHP (Laravel framework would be a BIG Plus)
-* Significant experience of debugging using JavaScript-based tools like Chrome/Firefox Developer Console
-* Basic experience with Node.js
-* Knowledge of graphical tools such as GIMP/Photoshop/XD/Illustrator 
+* A high level of experience with UI layouts, Bootstrap, and the CSS GRID system.
+* Solid experience in using a complex REST API from the client-side.
+* A solid understanding of cross-browser compatibility issues, and ways to work around them.
+* Good knowledge and practical experience of client-side build/config management.
+* Good understanding of code versioning tools, such as Git.
+* Good understanding of asynchronous request handling, partial page updates, and Ajax.
+* Experience in PHP (Laravel framework would be a BIG Plus).
+* Significant experience of debugging using JavaScript-based tools like Chrome/Firefox Developer Console.
+* Experience with Node.js
+* Knowledge of graphical tools such as GIMP/Photoshop/XD/Illustrator.
 
 ## The following would also be a significant plus:
 
 * Laravel Framework
-* Some exposure to full-stack development
-* A good understanding of SEO principles, so that you can ensure that our application adheres to such principles
+* Some exposure to full-stack development.
+* A good understanding of SEO principles, so that you can ensure that our application adheres to such principles.
 
 ## Benefits 
-* Fulltime Job 5 days/8 hours with a competitive salary
-* Working with a great team 
+* Fulltime Job 5 days/8 hours with a competitive salary.
+* Working with a great team.
 
 
 You think you fit our needs? 
