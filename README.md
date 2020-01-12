@@ -14,18 +14,17 @@ You’re likely to have a self-driven, conscientious mentality with a commitment
 ## Responsibilities
 In general, you’ll work closely with the development team to create elegant, usable, responsive and interactive interfaces across multiple devices. You will, therefore:
 
-* gain feedback continuously from users, customers, and colleagues
-* monitor app performance, watch for traffic drops related to site usability problems and rectify any issues
-* write functional requirement documents and guides
-* create quality mockups and prototypes, ensuring high-quality graphic standards and brand consistency 
-* turn UI/UX designs into prototypes, creating excellent interactions from designs
-* write reusable code to a standard which makes it quick and easy to maintain the code in the future
-* optimize applications for maximum speed
-* optimize applications for maximum scalability
-* design new features, or maintain old features
-* collaborate with back-end developers to improve usability
-* help back-end developers with coding and troubleshooting
-* stay up-to-date with emerging technologies
+* Gain feedback continuously from users, customers, and colleagues
+* Monitor app performance, watch for traffic drops related to site usability problems and rectify any issues
+* Create quality mockups and prototypes, ensuring high-quality graphic standards and brand consistency 
+* Turn UI/UX designs into prototypes, creating excellent interactions from designs
+* Write reusable code to a standard which makes it quick and easy to maintain the code in the future
+* Optimize applications for maximum speed
+* Optimize applications for maximum scalability
+* Design new features, or maintain old features
+* Collaborate with back-end developers to improve usability
+* Help back-end developers with coding and troubleshooting
+* Stay up-to-date with emerging technologies
 
 ### You’re perfect for this role if you: ###
 
