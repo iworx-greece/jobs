@@ -28,36 +28,36 @@ In general, you’ll work closely with the development team to create elegant, u
 
 ### You’re perfect for this role if you: ###
 
-enjoy the challenge of taking part in complex technical projects, and delivering iterative solutions that provide value at each step of the way
-perform well in a fast-paced environment, and contribute to optimal flow in a rapidly changing design/technology environment
-enjoy working closely with partners across the business and within your team to solve problems
-are a great communicator who is focused on discovering and delivering solutions facilitating meaningful discussions, and building consensus
-genuinely enjoy sharing your knowledge with others
+* Enjoy the challenge of taking part in complex technical projects, and delivering iterative solutions that provide value at each step of the way.
+* Perform well in a fast-paced environment, and contribute to optimal flow in a rapidly changing design/technology environment
+enjoy working closely with partners across the business and within your team to solve problems.
+* Are a great communicator who is focused on discovering and delivering solutions facilitating meaningful discussions, and building consensus
+* Genuinely enjoy sharing your knowledge with others
 
 ## Skills and qualifications
 
 ### You will need to demonstrate:
 
-* excellent knowledge of HTML5 and CSS3
-* profound knowledge in JavaScript
+* Excellent knowledge of HTML5 and CSS3
+* Profound knowledge in JavaScript
 * Good experience of the WordPress CMS (+Woo)
-* a high level of proficiency with JavaScript frameworks such as jQuery, React.js
-* a high level of experience with UI layouts, Bootstrap, and the CSS GRID system
-* solid experience in using a complex REST API from the client-side
-* a solid understanding of cross-browser compatibility issues, and ways to work around them
-* good knowledge and practical experience of client-side build/config management
-* good understanding of code versioning tools, such as Git
-* good understanding of asynchronous request handling, partial page updates, and Ajax
-* experience in PHP (Laravel framework would be a BIG Plus)
-* significant experience of debugging using JavaScript-based tools like Chrome/Firefox Developer Console
+* A high level of proficiency with JavaScript frameworks such as jQuery, React.js
+* A high level of experience with UI layouts, Bootstrap, and the CSS GRID system
+* Solid experience in using a complex REST API from the client-side
+* A solid understanding of cross-browser compatibility issues, and ways to work around them
+* Good knowledge and practical experience of client-side build/config management
+* Good understanding of code versioning tools, such as Git
+* Good understanding of asynchronous request handling, partial page updates, and Ajax
+* Experience in PHP (Laravel framework would be a BIG Plus)
+* Significant experience of debugging using JavaScript-based tools like Chrome/Firefox Developer Console
 * Basic experience with Node.js
-* Basic knowledge of graphical tools such as GIMP/Photoshop/XD/Illustrator 
+* Knowledge of graphical tools such as GIMP/Photoshop/XD/Illustrator 
 
 ## The following would also be a significant plus:
 
 * Laravel Framework
-* some exposure to full-stack development
-* a good understanding of SEO principles, so that you can ensure that our application adheres to such principles
+* Some exposure to full-stack development
+* A good understanding of SEO principles, so that you can ensure that our application adheres to such principles
 
 ## Benefits 
 * Fulltime Job 5 days/8 hours with a competitive salary
