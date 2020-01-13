@@ -65,5 +65,5 @@ enjoy working closely with partners across the business and within your team to 
 
 
 You think you fit our needs? 
-Give us a call for an interview at +30 2810 336880 or mail us at info@iworx.gr with your CV and projects (yours/participated). 
+Give us a call for an interview at +30 2810 336880 or mail us at <info@iworx.gr> with your CV and projects (yours/participated). 
 
